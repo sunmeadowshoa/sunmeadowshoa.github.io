@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Sun Meadows HOA
 ---
 
-# Header 1 11
+# Header 1 22
 ## Header 2
 ### Header 3
 
