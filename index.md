@@ -1,5 +1,6 @@
 ---
 layout: default
+show_downloads: true
 ---
 
 # Header 1 22
