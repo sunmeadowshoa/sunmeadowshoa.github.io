@@ -1,9 +1,8 @@
 ---
 layout: default
-show_downloads: true
 ---
 
-# Header 1 22
+# Header 1 33
 ## Header 2
 ### Header 3
 
