@@ -6,7 +6,7 @@ layout: default
 
 # Welcome
 
-Welcome to the Sun Meadows Homeowners' Association website. Whether you are looking for a new home and are considering our neighborhood or already have a home in Sun Meadows, we hope you will find this website to be a valuable source of information.
+Welcome to the Sun Meadows Homeowners' Association website. Whether you are looking for a new home in College Station, TX and are considering our neighborhood or already have a home in Sun Meadows, we hope you will find this website to be a valuable source of information.
 
 # Declarations and Covenants
 
