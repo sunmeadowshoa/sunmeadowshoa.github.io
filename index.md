@@ -18,7 +18,7 @@ Welcome to the Sun Meadows Homeowners' Association website. Whether you are look
 
 # Deed Restrictions
 
-Remember, Sun Meadows is a **deed restricted** community. Notices of violations will be sent to the owners and tenants. Fines of $30 or more may be assessed by HOA for each violation. The City of College Station my assess a separate fine for the same violation.
+Remember, Sun Meadows is a **deed restricted** community. Notices of violations will be sent to the owners and tenants. Fines of $30 or more may be assessed by HOA for each violation. The City of College Station may assess a separate fine for the same violation.
 
 Please be especially aware of the following restrictions:
  - **LAWNS** must be regularly MOWED and EDGED, no weeds or dead plants
@@ -44,7 +44,7 @@ Please be especially aware of the following restrictions:
  - Why do I have to maintain my yard?
  > All HOA members benefit when the neighborhood is aesthetically pleasing; also, it helps to maintain property values in the neighborhood. Finally, City of College Station requires front yard to be maintained otherwise you will be cited for violation.
  - Can I keep garbage and trash cans on my drive way or front yard?
- > Absolutely not! This is violation of deed restritions. Garbage cans must be screened OUT OF SIGHT behind fence except on [collection days](https://www.cstx.gov/departments___city_hall/publicworks/solid_waste_recycling/collection_schedule). Only duplexes without gate access to backyard from front street allowed to keep trash cans against fence on side of a house as much screened out of sight as possible.
+ > Absolutely not! This is violation of HOA deed restritions and city ordinance. Garbage cans must be screened OUT OF SIGHT behind fence except on [collection days](https://www.cstx.gov/departments___city_hall/publicworks/solid_waste_recycling/collection_schedule). Only duplexes without gate access to backyard from front street allowed to keep trash cans against fence on side of a house as much screened out of sight as possible.
  - What do I do about concerns of too many people in a household?
  > This is not a restriction governed by our CCR.  If you suspect that a household has more unrelated residents than the City allows, contact College Station Code Enforcement at 979-764-6363.
  - What do I do about loud and disturbing neighbors?
