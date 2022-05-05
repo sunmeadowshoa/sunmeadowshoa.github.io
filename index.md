@@ -15,6 +15,13 @@ Welcome to the Sun Meadows Homeowners' Association website. Whether you are look
  - [CCR: Declaration of Covenants, Conditions and Restrictions Phase 2, 2A, 3](/docs/SunMeadows CCR Phase 2-3.pdf)
  - [Bylaws Adoption](/docs/SunMeadows_Bylaws_Adoption_2016-10-12.pdf)
 
+# FAQ
+
+ - Can I become a Member if I am renting a property in Sun Meadows?
+ > Unfortunately, not. Member status is reserved for property owners in order that they may pay annual dues and receive important information regarding their investment in Sun Meadows subdivision. Homeowners are encouraged to share any information they deem important with their tenants and/or their property management agents.
+ - What are my HOA dues used to pay for?
+ > HOA dues primarily go towards landscaping the common areas, insurance, and deed restriction enforcement.
+
 # Contact Us
 
 For all questions, comments and concerns please contact our management company:
