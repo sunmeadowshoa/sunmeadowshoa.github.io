@@ -11,9 +11,10 @@ Welcome to the Sun Meadows Homeowners' Association website. Whether you are look
 # Declarations and Covenants
 
  - [Bylaws: Articles of Incorporation](/docs/SunMeadows_Bylaws.pdf)
- - [CCR: Declaration of Covenants, Conditions and Restrictions Phase 1](/docs/SunMeadows CCR Phase 1.pdf)
- - [CCR: Declaration of Covenants, Conditions and Restrictions Phase 2, 2A, 3](/docs/SunMeadows CCR Phase 2-3.pdf)
+ - [CCR: Declaration of Covenants, Conditions and Restrictions Phase 1](/docs/SunMeadows_CCR_Phase1.pdf)
+ - [CCR: Declaration of Covenants, Conditions and Restrictions Phase 2, 2A, 3](/docs/SunMeadows_CCR_Phase2-3.pdf)
  - [Bylaws Adoption](/docs/SunMeadows_Bylaws_Adoption_2016-10-12.pdf)
+ - [Deed Restrictions Enforcement and Fine Policy](/docs/SunMeadows_Deed_Restrictions_Enforcement_and_Fine_Policy.pdf)
 
 # FAQ
 
