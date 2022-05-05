@@ -35,6 +35,8 @@ Please be especially aware of the following restrictions:
  - **VEHICLES PARKING** — no driving or PARKING ON NON-PAVED AREAS. Fines up to $100 per violation plus TOWING AT OWNER’S EXPENSE will be enforced without warning. This is a City Ordinance
  - **MATERIALS** for all outside repairs or replacements (including roof shingles) shall be LIKE IN KIND to existing materials (color, shape, style, etc) and REQUIRE APPROVAL prior to making any changes
 
+![Sun Meadows Picture](/pics/IMG_20160608_100202506.jpg)
+
 # FAQ
 
  - Can I become a HOA Member if I am renting a property in Sun Meadows?
