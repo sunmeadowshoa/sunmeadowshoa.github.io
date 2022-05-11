@@ -6,7 +6,9 @@ layout: default
 
 # Welcome
 
-Welcome to the Sun Meadows Homeowners' Association website. Whether you are looking for a new home in College Station, TX and are considering our neighborhood or already have a home in Sun Meadows, we hope you will find this website to be a valuable source of information.
+Welcome to the Sun Meadows Homeowners' Association website. Whether you are looking for a new home in [College Station](https://www.cstx.gov/), Texas and are considering our neighborhood or already have a home in Sun Meadows, we hope you will find this website to be a valuable source of information.
+
+Sun Meadows neighborhood is centrally located in the heart of Aggieland close to [Texas A&M University](https://www.tamu.edu/) Campus in College Station. Nestled right on the edge of [Bachmann Park](https://visit.cstx.gov/listing/brian-bachmann-community-park-(southwood-athletic-park)/727/), this centrally located gem features ample access to sports activities including baseball, socer, tennis fields and 25 yd [Cindy Hallaran Pool](https://visit.cstx.gov/listing/cindy-hallaran-pool/392/). [The College Station Middle School](https://csms.csisd.org/) and [Cypress Grove Intermediate School](https://cg.csisd.org/) are directly outside our heighborhood with safe pedestrian access. In case of emergency or for your regular doctor visits there is [St. Joseph Health College Station Hospital](https://stjoseph.stlukeshealth.org/locations/chi-st-joseph-health-college-station-hospital) conveniently located within walking distance from Sun Meadows. Less than a mile from Texas A&M University, this location is convenient for any Aggieland living and frequently chosen by students, professionals and family of kids.
 
 # Declarations and Covenants
 
