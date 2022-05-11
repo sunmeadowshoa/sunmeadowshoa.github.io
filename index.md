@@ -71,4 +71,4 @@ For all questions, comments and concerns please contact our management company:
 
 # Documents
 
- - [Landscaping Scope of Work][/docs/SunMeadows_LandscapingScopeOfWork_2022-05-11.pdf]
+ - [Landscaping Scope of Work](/docs/SunMeadows_LandscapingScopeOfWork_2022-05-11.pdf)
