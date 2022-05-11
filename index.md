@@ -10,8 +10,16 @@ Welcome to the Sun Meadows Homeowners' Association website. Whether you are look
 
 Sun Meadows neighborhood is centrally located in the heart of Aggieland close to [Texas A&M University](https://www.tamu.edu/) Campus in College Station. Nestled right on the edge of [Bachmann Park](https://visit.cstx.gov/listing/brian-bachmann-community-park-(southwood-athletic-park)/727/), this centrally located gem features ample access to sports activities including baseball, socer, tennis fields and 25 yd [Cindy Hallaran Pool](https://visit.cstx.gov/listing/cindy-hallaran-pool/392/). [The College Station Middle School](https://csms.csisd.org/) and [Cypress Grove Intermediate School](https://cg.csisd.org/) are directly outside our heighborhood with safe pedestrian access. In case of emergency or for your regular doctor visits there is [St. Joseph Health College Station Hospital](https://stjoseph.stlukeshealth.org/locations/chi-st-joseph-health-college-station-hospital) conveniently located within walking distance from Sun Meadows. Less than a mile from Texas A&M University, this location is convenient for any Aggieland living and frequently chosen by students, professionals and families with kids.
 
-# Declarations and Covenants
+# Contact Us
 
+For all questions, comments and concerns please send us email to [SunMeadowsHOA@outlook.com](mailto:SunMeadowsHOA@outlook.com) or contact our management company:
+
+**Association Services**
+ - (979) 822-4443
+ - 427 Dellwood St., Bryan, Texas 77801
+<!-- Email of Association Services: help@associationservicesbcs.com -->
+
+# Legal Documents
  - [Bylaws: Articles of Incorporation](/docs/SunMeadows_Bylaws.pdf)
  - [CCR: Declaration of Covenants, Conditions and Restrictions Phase 1](/docs/SunMeadows_CCR_Phase1.pdf)
  - [CCR: Declaration of Covenants, Conditions and Restrictions Phase 2, 2A, 3](/docs/SunMeadows_CCR_Phase2-3.pdf)
@@ -55,15 +63,6 @@ Please be especially aware of the following restrictions:
  > The quickest remedy to this type of problem is to call the College Station Police Department's Non-Emergency number, 979-764-3600.  Be sure to ask that the responding officer come by to let you know the resolution of the complaint.
  - I want to build a shed in my back yard, replace roof, or renew mail box. What approvals do I need?
  > Send your request and any drawings or plans you have to email from Contact Us paragraph below.  As long as your plan conforms to the covenants, you should receive approval for your project in a few days.
-
-# Contact Us
-
-For all questions, comments and concerns please send us email to [SunMeadowsHOA@outlook.com](mailto:SunMeadowsHOA@outlook.com) or contact our management company:
-
-**Association Services**
- - (979) 822-4443
- - 427 Dellwood St., Bryan, Texas 77801
-<!-- Email of Association Services: help@associationservicesbcs.com -->
 
 # Neighborhood Map
 
