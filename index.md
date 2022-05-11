@@ -58,12 +58,12 @@ Please be especially aware of the following restrictions:
 
 # Contact Us
 
-For all questions, comments and concerns please contact our management company:
+For all questions, comments and concerns please send us email to [SunMeadowsHOA@outlook.com](mailto:SunMeadowsHOA@outlook.com) or contact our management company:
 
 **Association Services**
  - (979) 822-4443
- - help@associationservicesbcs.com
  - 427 Dellwood St., Bryan, Texas 77801
+<!-- Email of Association Services: help@associationservicesbcs.com -->
 
 # Neighborhood Map
 
