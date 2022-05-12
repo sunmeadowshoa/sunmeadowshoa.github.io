@@ -12,7 +12,7 @@ Sun Meadows neighborhood is centrally located in the heart of Aggieland close to
 
 # Contact Us
 
-For all questions, comments and concerns please send us email and/or contact **Association Services**, our management company:
+For all questions, comments and concerns or for resale certificate please send us email and/or contact **Association Services**, our management company:
 
  - [SunMeadowsHOA@outlook.com](mailto:SunMeadowsHOA@outlook.com)
  - (979) 822-4443
