@@ -63,6 +63,8 @@ Please be especially aware of the following restrictions:
  > The quickest remedy to this type of problem is to call the College Station Police Department's Non-Emergency number, 979-764-3600.  Be sure to ask that the responding officer come by to let you know the resolution of the complaint.
  - I want to build a shed in my back yard, replace roof, or renew mail box. What approvals do I need?
  > Send your request and any drawings or plans you have to email from Contact Us paragraph below.  As long as your plan conforms to the covenants, you should receive approval for your project in a few days.
+  - I am a realtor and I need HOA legal Documents and resale certificate. How can I get them?
+  > All Sun Meadows docs are available to download above in 'Legal Documents' section. For resale certificate please send us email and contact our management company (contact information is available above in 'Contact Us' section).
 
 # Neighborhood Map
 
