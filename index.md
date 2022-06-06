@@ -4,6 +4,10 @@ layout: default
 
 ![Sun Meadows Picture](/pics/IMG_20160608_100321412_1800.jpg)
 
+# Announcement 
+
+Sun Meadows HOA Annual Meeting will take place at 6:30pm on Thursday June 23rd at Fire Station 3 (1900 Barron Rd, College Station, TX 77845). This is our first post-COVID meeting. Homeowners are encouraged to attend!
+
 # Welcome
 
 Welcome to the Sun Meadows Homeowners' Association website. Whether you are looking for a new home in [College Station](https://www.cstx.gov/), Texas and are considering our neighborhood or already have a home in Sun Meadows, we hope you will find this website to be a valuable source of information.
