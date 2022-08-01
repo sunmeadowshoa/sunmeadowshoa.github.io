@@ -56,6 +56,8 @@ Please be especially aware of the following restrictions:
 
  - Can I become a HOA Member if I am renting a property in Sun Meadows?
  > Unfortunately, not. Member status is reserved for property owners in order that they may pay annual dues and receive important information regarding their investment in Sun Meadows subdivision. Homeowners are encouraged to share any information they deem important with their tenants and/or their property management agents.
+ - How to pay my HOA dues?
+ > You can send check over mail to our management company or pay online on the management company web-site ((information is available above in 'Contact Us' section).
  - What are my HOA dues used to pay for?
  > HOA dues primarily go towards landscaping the common areas, insurance, and deed restriction enforcement.
  - Why do I have to maintain my yard?
