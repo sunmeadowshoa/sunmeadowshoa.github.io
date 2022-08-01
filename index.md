@@ -16,12 +16,12 @@ Sun Meadows neighborhood is centrally located in the heart of Aggieland close to
 
 # Contact Us
 
-For all questions, comments and concerns or for resale certificate please send us email and/or contact **Association Services**, our management company:
+For all questions, comments and concerns or for resale certificate please send email and/or contact [**Association Services**](https://associationservicesbcs.com), our management company:
 
- - [SunMeadowsHOA@outlook.com](mailto:SunMeadowsHOA@outlook.com)
+ - [help@associationservicesbcs.com](mailto:help@associationservicesbcs.com) - for resale certificates
+ - [SunMeadowsHOA@outlook.com](mailto:SunMeadowsHOA@outlook.com) - for general questions
  - (979) 822-4443
  - 427 Dellwood St., Bryan, Texas 77801
-<!-- Email of Association Services: help@associationservicesbcs.com -->
 
 # Legal Documents
  - [Bylaws: Articles of Incorporation](/docs/SunMeadows_Bylaws.pdf)
@@ -68,7 +68,7 @@ Please be especially aware of the following restrictions:
  - I want to build a shed in my back yard, replace roof, or renew mail box. What approvals do I need?
  > Send your request and any drawings or plans you have to email from Contact Us paragraph below.  As long as your plan conforms to the covenants, you should receive approval for your project in a few days.
   - I am a realtor and I need HOA legal Documents and resale certificate. How can I get them?
-  > All Sun Meadows docs are available to download above in 'Legal Documents' section. For resale certificate please send us email and contact our management company (contact information is available above in 'Contact Us' section).
+  > All Sun Meadows docs are available to download above in 'Legal Documents' section. For resale certificate please contact our management company (information is available above in 'Contact Us' section).
 
 # Neighborhood Map
 
