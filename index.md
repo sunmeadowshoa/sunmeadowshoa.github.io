@@ -4,10 +4,12 @@ layout: default
 
 ![Sun Meadows Picture](/pics/IMG_20160608_100321412_1800.jpg)
 
-<!--- # Announcement 
-
-**Sun Meadows HOA Annual Meeting will take place at 6:30pm on Thursday June 23rd at Fire Station 3 (1900 Barron Rd, College Station, TX 77845). This is our first post-COVID meeting. Homeowners are encouraged to attend!**
+<!---   
 --->
+# Announcement 
+
+**Sun Meadows HOA Annual Meeting will take place at 6:00pm on Thursday June 29th at Fire Station 3 (1900 Barron Rd, College Station, TX 77845). Homeowners are encouraged to attend!**
+
 
 # Welcome
 
@@ -22,7 +24,7 @@ For all questions, comments and concerns or for resale certificate please send e
  - [help@associationservicesbcs.com](mailto:help@associationservicesbcs.com) - for resale certificates
  - [SunMeadowsHOA@outlook.com](mailto:SunMeadowsHOA@outlook.com) - for general questions
  - (979) 822-4443
- - 427 Dellwood St., Bryan, Texas 77801
+ - 1701 Southwest Pkwy, Suite 209, College Station, TX 77840-6910
 
 # Legal Documents
  - [Bylaws: Articles of Incorporation](/docs/SunMeadows_Bylaws.pdf)
